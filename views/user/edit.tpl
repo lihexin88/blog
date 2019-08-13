@@ -1,0 +1,1 @@
+H:\temp\golang\src\blog/views/user/edit.tpl
